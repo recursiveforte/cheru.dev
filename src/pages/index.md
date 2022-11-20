@@ -1,12 +1,12 @@
 ---
 layout: ../layouts/HomePageLayout.astro
-title: "cheru.dev"
+title: "Cheru Berhanu"
 ---
 
 Hello, world!
 =============
 
-I'm **Cheru Berhanu**: a programmer, violinist, and high school student based in Vermont.
+I'm **Cheru Berhanu**: a fifteen-year-old programmer, violinist, and high school student based in Vermont.
 
 I spend the majority of my free time programming for my local [robotics team](https://essexrobotics.org),
 leading a [coding club](https://essexhacks.org/) at my school, 
