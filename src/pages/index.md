@@ -13,5 +13,3 @@ leading a [coding club](https://essexhacks.org/) at my school,
 working on small software projects, and practicing violin.
 
 You can find me on GitHub as [recursiveforte](https://github.com/recursiveforte) and email me at [cheru@cheru.dev](mailto:cheru@cheru.dev).
-
-**--**
