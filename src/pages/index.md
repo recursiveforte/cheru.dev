@@ -6,7 +6,7 @@ title: "Cheru Berhanu"
 Hello, world!
 =============
 
-I'm **Cheru Berhanu (ቸርነት ብርሃኑ)**, a high school sophomore. I play violin & make things with code.
+I'm **Cheru Berhanu (ቸርነት ብርሃኑ)**, a high school sophomore.
 
 I spend most of my free time making code work for my [robotics team](https://essexrobotics.org),
 leading a [coding club](https://essexhacks.org/) at my school, practicing violin, and making random stuff. Right now, I'm working on [Damien Invasion](https://damien.cx).
